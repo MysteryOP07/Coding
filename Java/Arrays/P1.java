@@ -12,7 +12,9 @@ public class P1 {
         for (ind = 0; ind < size; ind++) {
             bills[ind] = sc.nextInt();
         }
+
         int i = 0, count5 = 0, count10 = 0, count20 = 0;
+
         for (i = 0; i < size; i++) {
             if (bills[i] == 5) {
                 count5++;
