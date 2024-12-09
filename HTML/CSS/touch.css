@@ -1,0 +1,17 @@
+.model{
+    font-size:40px;
+    margin-left:20px;
+    margin-bottom:3px;
+    font-family:montserrat;
+    text-align:center;
+    font-weight:bold;
+}
+.order{
+    font-family:montserrat;
+    font-size:20px;
+    margin-top:10px;
+    text-align:center;
+}
+.touchless{
+    text-decoration: underline;
+}
